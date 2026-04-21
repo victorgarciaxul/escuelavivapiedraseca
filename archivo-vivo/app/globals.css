@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,300;0,400;0,600;0,700;1,400;1,600&family=Outfit:wght@300;400;500;600;700&display=swap');
+
+@import "tailwindcss";
+
+:root {
+  /* Modern Earth Palette */
+  --color-crema: #FCF9F2;
+  --color-arena: #F2EBE0;
+  --color-piedra-clara: #D4C4A8;
+  --color-piedra: #A68E6A;
+  --color-terracota: #C26B38;
+  --color-tierra: #2D2418;
+  --color-oscuro: #1A150F;
+  
+  /* Semantic Tokens */
+  --bg-primary: var(--color-crema);
+  --text-primary: var(--color-tierra);
+  --text-secondary: #5C4D3C;
+  --accent: var(--color-terracota);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: 'Outfit', sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Crimson Pro', serif;
+  font-weight: 600;
+}
+
+/* Glassmorphism Utility */
+.glass {
+  background: rgba(252, 249, 242, 0.7);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(212, 196, 168, 0.3);
+}
+
+.glass-dark {
+  background: rgba(26, 21, 15, 0.8);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(212, 196, 168, 0.1);
+}
+
+.leaflet-container {
+  font-family: 'Outfit', sans-serif;
+}
+
+.leaflet-popup-content-wrapper {
+  border-radius: 8px;
+  box-shadow: 0 10px 30px rgba(45,36,24,0.12);
+}

@@ -1,0 +1,113 @@
+[
+  {
+    "id": 1,
+    "titulo": "Módulo 1: El patrimonio de la piedra seca",
+    "subtitulo": "Historia, principios constructivos y valores culturales",
+    "modalidad": "online",
+    "descripcion": "Introducción al patrimonio cultural inmaterial de la construcción en piedra seca. Origen, extensión geográfica, inscripción en la Lista Representativa de la UNESCO (2018) y presencia específica en la comarca de Los Pedroches. Se analizan casos inspiradores a nivel internacional y nacional.",
+    "objetivos": [
+      "Contextualizar la piedra seca como patrimonio cultural inmaterial de la humanidad",
+      "Identificar los valores culturales, sociales y medioambientales de la técnica",
+      "Conocer los principales referentes internacionales y nacionales",
+      "Situar el proyecto en el contexto de Los Pedroches"
+    ],
+    "contenidos": [
+      "Historia y extensión de la técnica de piedra seca",
+      "Inscripción UNESCO 2018: proceso y significado",
+      "Tipologías constructivas: muros, chozos, majadas, terrazas",
+      "Los Pedroches como paisaje cultural de piedra seca",
+      "Casos de referencia: Cataluña, Francia, Italia, Marruecos"
+    ],
+    "materiales": [
+      { "titulo": "Manual de Buenas Prácticas (borrador)", "archivo": "/materiales/manual-buenas-practicas.pdf", "disponible": false },
+      { "titulo": "Presentación Módulo 1", "archivo": "/materiales/modulo1-presentacion.pdf", "disponible": false },
+      { "titulo": "Ficha de evaluación M1", "archivo": "/materiales/evaluacion-m1.pdf", "disponible": false }
+    ],
+    "videos": ["pildora-01", "pildora-02", "pildora-04"],
+    "duracion": "6-8 horas",
+    "estado": "abierto"
+  },
+  {
+    "id": 2,
+    "titulo": "Módulo 2: Oralidades Vivas",
+    "subtitulo": "Testimonios de portadores del saber",
+    "modalidad": "online",
+    "descripcion": "Serie de testimonios en vídeo de maestros y maestras de la piedra seca de Los Pedroches. Pastores, paereros, agricultoras y personas mayores de la zona comparten su experiencia directa con la técnica: cómo la aprendieron, qué construyeron, qué significó para su vida y qué sienten al verla desaparecer.",
+    "objetivos": [
+      "Conectar emocionalmente con la dimensión humana del patrimonio",
+      "Recuperar y documentar la memoria oral de la técnica",
+      "Visibilizar a las personas mayores como portadoras activas del saber",
+      "Identificar el vocabulario y los conceptos técnicos del oficio"
+    ],
+    "contenidos": [
+      "Testimonio: Manuel R. — El lenguaje de la piedra (Torrecampo)",
+      "Testimonio: Josefa M. — Las majadas del frío (Torrecampo)",
+      "Testimonio: Francisco G. — Los paereros de Pedroche",
+      "Testimonio: Dolores C. — Los chozos de los pastores (Pedroche)",
+      "Glosario oral: términos del oficio en boca de sus portadores"
+    ],
+    "materiales": [
+      { "titulo": "Cuaderno de Bitácora (plantilla)", "archivo": "/materiales/cuaderno-bitacora.pdf", "disponible": false },
+      { "titulo": "Guía de entrevista patrimonial", "archivo": "/materiales/guia-entrevista.pdf", "disponible": false }
+    ],
+    "videos": ["oral-01", "oral-02", "oral-03"],
+    "duracion": "4-5 horas",
+    "estado": "abierto"
+  },
+  {
+    "id": 3,
+    "titulo": "Módulo 3: Taller Práctico",
+    "subtitulo": "Construcción real de un muro en piedra seca",
+    "modalidad": "presencial",
+    "descripcion": "Taller práctico intensivo con construcción real de un pequeño muro o estructura en piedra seca, guiado por expertos y con participación de personas mayores portadoras del saber. Se realizará en colaboración con la Granja Escuela Pedroche.",
+    "objetivos": [
+      "Adquirir competencias básicas en la selección de materiales líticos",
+      "Aprender a disponer y trabar piedras siguiendo el aparejo tradicional",
+      "Practicar el uso de cuñas, cascajo y coronamiento",
+      "Vivenciar el intercambio intergeneracional del saber"
+    ],
+    "contenidos": [
+      "Selección y clasificación de material en campo",
+      "Cimentación y primera hilada",
+      "Aparejo y trabazón: doble hoja con relleno",
+      "Coronamiento y terminaciones",
+      "Reparación y mantenimiento de muros existentes"
+    ],
+    "materiales": [
+      { "titulo": "Manual de Buenas Prácticas", "archivo": "/materiales/manual-buenas-practicas.pdf", "disponible": false },
+      { "titulo": "Ficha de práctica de campo", "archivo": "/materiales/ficha-practica-campo.pdf", "disponible": false }
+    ],
+    "videos": ["pildora-03"],
+    "duracion": "2 jornadas presenciales",
+    "estado": "pendiente convocatoria",
+    "lugar": "Granja Escuela Pedroche (pendiente de confirmar acuerdo)"
+  },
+  {
+    "id": 4,
+    "titulo": "Módulo 4: Microproyectos de activación local",
+    "subtitulo": "Diseño y presentación de proyectos de transmisión del PCI",
+    "modalidad": "mixto",
+    "descripcion": "Módulo final orientado al diseño y presentación de microproyectos de activación local del Patrimonio Cultural Inmaterial, basados en lo aprendido, en clave de transmisión, intervención artística o acción comunitaria. Incluye sesiones de acompañamiento técnico personalizado.",
+    "objetivos": [
+      "Transferir lo aprendido a un proyecto de intervención local concreto",
+      "Desarrollar competencias de diseño participativo",
+      "Conectar la técnica de la piedra seca con propuestas contemporáneas",
+      "Presentar y defender un microproyecto ante la comunidad"
+    ],
+    "contenidos": [
+      "Metodología de diseño participativo de proyectos culturales",
+      "Tipos de microproyectos: Land Art, rutas patrimoniales, talleres replicables",
+      "Elaboración de ficha de microproyecto",
+      "Presentación pública y evaluación colectiva",
+      "Recursos para la replicabilidad del modelo"
+    ],
+    "materiales": [
+      { "titulo": "Plantilla de microproyecto", "archivo": "/materiales/plantilla-microproyecto.pdf", "disponible": false },
+      { "titulo": "Ficha de evaluación final", "archivo": "/materiales/evaluacion-final.pdf", "disponible": false },
+      { "titulo": "Guía de replicabilidad", "archivo": "/materiales/guia-replicabilidad.pdf", "disponible": false }
+    ],
+    "videos": [],
+    "duracion": "3-4 semanas (mixto)",
+    "estado": "pendiente"
+  }
+]

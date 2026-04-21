@@ -1,0 +1,90 @@
+[
+  {
+    "id": "doc-01",
+    "titulo": "Piedra sobre piedra: memoria viva de Los Pedroches",
+    "coleccion": "documental",
+    "duracion": "28:14",
+    "descripcion": "Documental etnográfico que recorre la historia y el presente de la construcción en piedra seca en Los Pedroches. Incluye testimonios de maestros locales, imágenes de campo y el proceso formativo del proyecto.",
+    "embedUrl": null,
+    "thumbColor": "#8B7355",
+    "estado": "en producción",
+    "tags": ["documental", "etnografía", "Los Pedroches"]
+  },
+  {
+    "id": "oral-01",
+    "titulo": "Manuel R. — El lenguaje de la piedra",
+    "coleccion": "oralidades",
+    "duracion": "12:40",
+    "descripcion": "Testimonio de Manuel R. (79 años, Torrecampo), paerero de oficio. Relata cómo aprendió la técnica de su padre, las herramientas que usaban, y la diferencia entre la caliza y el granito para distintas construcciones.",
+    "embedUrl": null,
+    "thumbColor": "#B5622A",
+    "estado": "editado",
+    "tags": ["testimonio", "paerero", "herramientas", "Torrecampo"]
+  },
+  {
+    "id": "oral-02",
+    "titulo": "Josefa M. — Las majadas del frío",
+    "coleccion": "oralidades",
+    "duracion": "9:22",
+    "descripcion": "Josefa M. (84 años, Torrecampo) describe la vida en las majadas de piedra seca durante el invierno, la función térmica de los muros y el papel de las mujeres en el mantenimiento y pequeñas reparaciones.",
+    "embedUrl": null,
+    "thumbColor": "#B5622A",
+    "estado": "editado",
+    "tags": ["testimonio", "majada", "mujer", "ganadería"]
+  },
+  {
+    "id": "oral-03",
+    "titulo": "Francisco G. — Los paereros de Pedroche",
+    "coleccion": "oralidades",
+    "duracion": "15:08",
+    "descripcion": "Francisco G. (81 años, Pedroche) es uno de los últimos paereros activos. Habla del oficio, de los aprendices que tuvo, de por qué el oficio fue perdiéndose y de su esperanza en ver nuevas generaciones aprenderlo.",
+    "embedUrl": null,
+    "thumbColor": "#B5622A",
+    "estado": "en edición",
+    "tags": ["testimonio", "paerero", "transmisión", "Pedroche"]
+  },
+  {
+    "id": "pildora-01",
+    "titulo": "Píldora 1: ¿Qué es la piedra seca?",
+    "coleccion": "pildoras",
+    "duracion": "4:10",
+    "descripcion": "Introducción al patrimonio de la construcción en piedra seca. Historia, extensión geográfica, inscripción UNESCO 2018 y valores culturales. Material de apoyo para el Módulo 1.",
+    "embedUrl": null,
+    "thumbColor": "#3D3520",
+    "estado": "listo",
+    "tags": ["módulo 1", "UNESCO", "historia", "introducción"]
+  },
+  {
+    "id": "pildora-02",
+    "titulo": "Píldora 2: Tipos de construcciones",
+    "coleccion": "pildoras",
+    "duracion": "5:35",
+    "descripcion": "Catálogo visual de tipologías constructivas: muros, chozos, corralizas, majadas y terrazas. Diferencias técnicas y funcionales. Con imágenes del inventario georreferenciado.",
+    "embedUrl": null,
+    "thumbColor": "#3D3520",
+    "estado": "listo",
+    "tags": ["módulo 1", "tipologías", "inventario"]
+  },
+  {
+    "id": "pildora-03",
+    "titulo": "Píldora 3: Aparejo y técnica constructiva",
+    "coleccion": "pildoras",
+    "duracion": "6:50",
+    "descripcion": "Explicación paso a paso de los principios constructivos de la piedra seca: selección de material, colocación, trabazón, cuñas y coronamiento. Material de apoyo para el Módulo 3.",
+    "embedUrl": null,
+    "thumbColor": "#3D3520",
+    "estado": "en producción",
+    "tags": ["módulo 3", "técnica", "aparejo", "taller"]
+  },
+  {
+    "id": "pildora-04",
+    "titulo": "Píldora 4: La piedra seca y el clima",
+    "coleccion": "pildoras",
+    "duracion": "4:55",
+    "descripcion": "Relación entre la técnica de la piedra seca, la gestión del agua y la resiliencia climática. Comparativa con estructuras contemporáneas de bioconstrucción.",
+    "embedUrl": null,
+    "thumbColor": "#3D3520",
+    "estado": "listo",
+    "tags": ["módulo 1", "sostenibilidad", "clima", "bioconstrucción"]
+  }
+]

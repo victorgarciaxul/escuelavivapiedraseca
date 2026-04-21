@@ -1,0 +1,98 @@
+[
+  {
+    "id": "paerero",
+    "termino": "Paerero / Paerera",
+    "categoria": "oficio",
+    "definicion": "Persona que ejerce el oficio de construir y reparar muros, cercados y demás estructuras de piedra seca. Término de uso específico en la comarca de Los Pedroches. Equivale a 'paeret' en catalán o 'dry stone waller' en inglés.",
+    "sinonimos": ["cantero de seco", "maestro de piedra"],
+    "pictograma": "paerero"
+  },
+  {
+    "id": "aparejo",
+    "termino": "Aparejo",
+    "categoria": "técnica",
+    "definicion": "Modo en que se disponen y colocan las piedras en un muro. Los principales tipos son el aparejo irregular (piedras sin labrar), el concertado (piedras semielaboradas) y el de sillería (bloques tallados). En la piedra seca de Los Pedroches predomina el aparejo irregular con doble hoja.",
+    "sinonimos": ["disposición", "trabazón"],
+    "pictograma": "aparejo"
+  },
+  {
+    "id": "doble-hoja",
+    "termino": "Doble hoja",
+    "categoria": "técnica",
+    "definicion": "Técnica constructiva que consiste en levantar dos paredes paralelas de piedra con un espacio interior que se rellena con piedras más pequeñas (cascajo). Proporciona mayor solidez y aislamiento térmico que la hoja simple.",
+    "sinonimos": ["muro de doble cara"],
+    "pictograma": "doble-hoja"
+  },
+  {
+    "id": "cascajo",
+    "termino": "Cascajo",
+    "categoria": "material",
+    "definicion": "Fragmentos de piedra pequeños, irregulares y sin labrar, utilizados para rellenar el interior de los muros de doble hoja y para nivelar los lechos de colocación de piedras más grandes.",
+    "sinonimos": ["ripio", "mampuesto"],
+    "pictograma": "cascajo"
+  },
+  {
+    "id": "coronamiento",
+    "termino": "Coronamiento",
+    "categoria": "técnica",
+    "definicion": "Hilada superior de un muro de piedra seca, colocada de forma que proteja la estructura de la lluvia y los agentes erosivos. Se suele resolver con piedras verticales ('bitas' o 'aguilones') o con lajas planas.",
+    "sinonimos": ["remate", "coronación", "caperuza"],
+    "pictograma": "coronamiento"
+  },
+  {
+    "id": "chozo",
+    "termino": "Chozo",
+    "categoria": "tipologia",
+    "definicion": "Construcción circular de pequeñas dimensiones usada como refugio temporal por pastores. Su rasgo más singular es la cubierta de falsa cúpula (técnica de approche o encorbelado): las hiladas de piedra se van cerrando hacia el centro sin usar cimbra ni argamasa.",
+    "sinonimos": ["cabaña pastoral", "caseta de pastor"],
+    "pictograma": "chozo"
+  },
+  {
+    "id": "majada",
+    "termino": "Majada",
+    "categoria": "tipologia",
+    "definicion": "Recinto cercado con muros de piedra seca destinado al descanso y resguardo nocturno del ganado, especialmente ovino y caprino. La forma circular o rectangular del cercado favorece la concentración del calor animal en invierno.",
+    "sinonimos": ["aprisco", "redil"],
+    "pictograma": "majada"
+  },
+  {
+    "id": "terraza",
+    "termino": "Terraza / Bancal",
+    "categoria": "tipologia",
+    "definicion": "Estructura horizontal ganada a la pendiente mediante muros de contención de piedra seca, usada para el cultivo agrícola. Permite retener el suelo y gestionar el agua de lluvia, reduciendo la erosión y creando microclimas favorables.",
+    "sinonimos": ["bancal", "andén", "abancalamiento"],
+    "pictograma": "terraza"
+  },
+  {
+    "id": "falsa-cupula",
+    "termino": "Falsa cúpula (approche)",
+    "categoria": "técnica",
+    "definicion": "Sistema de cubrición en el que las hiladas de piedra se van avanzando en voladizo sucesivo hacia el interior hasta cerrarse en el centro con una piedra de cierre. No es una cúpula verdadera (no trabaja a compresión circular) sino un encorbelado.",
+    "sinonimos": ["cúpula encorbada", "cúpula de approche"],
+    "pictograma": "falsa-cupula"
+  },
+  {
+    "id": "lecho",
+    "termino": "Lecho",
+    "categoria": "técnica",
+    "definicion": "Superficie horizontal sobre la que se asienta cada piedra dentro del muro. En la piedra seca, el lecho debe ser lo más plano posible para garantizar la estabilidad. Las piedras se disponen siempre con el lecho hacia abajo.",
+    "sinonimos": ["asiento", "cama"],
+    "pictograma": "lecho"
+  },
+  {
+    "id": "trabazón",
+    "termino": "Trabazón",
+    "categoria": "técnica",
+    "definicion": "Sistema de enlace entre las piedras que evita la formación de juntas verticales continuas, que debilitarían el muro. Se consigue alternando la disposición de las piedras en cada hilada (juntas escalonadas) y usando piedras pasantes o 'llaves'.",
+    "sinonimos": ["traba", "ligamento"],
+    "pictograma": "trabazon"
+  },
+  {
+    "id": "cuna",
+    "termino": "Cuña",
+    "categoria": "material",
+    "definicion": "Fragmento de piedra pequeño que se inserta bajo o entre piedras para estabilizarlas y corregir su nivel o inclinación. El uso correcto de cuñas es una de las habilidades más valoradas en el oficio del paerero.",
+    "sinonimos": ["calce", "calza"],
+    "pictograma": "cuna"
+  }
+]
